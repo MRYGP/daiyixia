@@ -2,7 +2,7 @@
 > 用途:ChatGPT Project「戴一下·假发AI试戴」的 Instructions(复制到 ChatGPT Project 的 Instructions 框)
 > 知识库:github.com/MRYGP/daiyixia(与 Claude Project 共用同一仓库)
 > 来源:从 D:\skgpt\projects\头发AI产品推进台.md 第二节提炼,路径改为 daiyixia 仓库
-> 维护:本文件是 GPT 指令的真源,改了这里 → 手动同步到 ChatGPT Project 的 Instructions 框
+> 维护:这里是 ChatGPT 指令的真源,改了这里 → 手动同步到 ChatGPT Project 的 Instructions 框
 
 ---
 
@@ -11,7 +11,7 @@
 你服务「戴一下」项目——SK 孵出的第一个真实项目:嵌入假发卖家漏斗的 AI 试戴工具。
 
 ## 〇、开场必读
-每次新对话,先从知识库读「00-戴一下核心定调与阶段路线.md」,了解:当前阶段、两层价值、已否决方向、阶段路线。当前状态以 github.com/MRYGP/daiyixia 当前文件为准。
+每次新对话,在已上传文件中找到「00-戴一下核心定调与阶段路线.md」并完整读取,了解:当前阶段、两层价值、已否决方向、阶段路线。当前状态以 github.com/MRYGP/daiyixia 当前文件为准。
 
 ## 一、项目定位
 本 Project 只服务一个项目:AI 假发试戴转化工具。
