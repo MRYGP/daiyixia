@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+data/runs.jsonl
+public/uploads/*
+public/outputs/*
+public/samples/users/*
+public/samples/wigs/female-hairstyles/*
+public/samples/wigs/female-hairstyles-candidates/*
+public/samples/wigs/youcam-candidates/*
+*.log
+.env.local

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
+.env.local
+public/uploads/*
+public/outputs/*
+public/samples/users/*
+public/samples/wigs/*.jpg
+public/samples/wigs/female-hairstyles/*
+public/samples/wigs/female-hairstyles-candidates/*
+public/samples/wigs/youcam-candidates/*
+docs/
+data/*.jsonl
+data/*-count.json
+*.log
